@@ -1,0 +1,21 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=9F:9A:95:2E:55:36:9C:9A:54:25:C2:1F:D0:38:13:85:F9:70:85:08%3Bcom.police2.crimealert
+
+    You can also add your credentials to an existing key, using this line:
+    9F:9A:95:2E:55:36:9C:9A:54:25:C2:1F:D0:38:13:85:F9:70:85:08;com.police2.crimealert
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyC8ROFPB3ONCBSXppy8TniUkuen5Y0i2Vk
+    </string>
+</resources>

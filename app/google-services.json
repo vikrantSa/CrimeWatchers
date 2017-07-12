@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "596483743870",
+    "firebase_url": "https://crimealert-8e1b0.firebaseio.com",
+    "project_id": "crimealert-8e1b0",
+    "storage_bucket": "crimealert-8e1b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596483743870:android:870793b8e7383cbe",
+        "android_client_info": {
+          "package_name": "com.police2.crimealert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596483743870-5d1in1ntdg60o857hjlci5t5u5ui9rpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.police2.crimealert",
+            "certificate_hash": "9F9A952E55369C9A5425C21FD0381385F9708508"
+          }
+        },
+        {
+          "client_id": "596483743870-r44tgsqevl78ceoaqmi6pi06uuu2h9m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC6v86dwq-mkeztF4fVegWqGwWKiSxVyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596483743870-r44tgsqevl78ceoaqmi6pi06uuu2h9m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596483743870:android:ac59eaf1c40a61b9",
+        "android_client_info": {
+          "package_name": "police2.com.crimewatchers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596483743870-r44tgsqevl78ceoaqmi6pi06uuu2h9m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC6v86dwq-mkeztF4fVegWqGwWKiSxVyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CrimeWatchers</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_signOut">Sign Out</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="hint_password">Password</string>
+    <string name="hint_email">E-mail</string>
+    <string name="sign_in">Go Online</string>
+    <string name="API_KEY">KLASDG987GHSMPO34908234OIRJG</string>
+
+
+    <string-array name="state_array">
+        <item>Karnataka</item>
+    </string-array>
+
+    <string-array name="city_array">
+        <item>Bangalore</item>
+        <item>Mangalore</item>
+        <item>Hubli</item>
+        <item>Belgaum</item>
+        <item>Hospet</item>
+        <item>Mysore</item>
+    </string-array>
+
+
+</resources>

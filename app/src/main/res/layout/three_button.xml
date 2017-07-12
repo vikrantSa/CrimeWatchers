@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/view"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/btn_assist"
+        style="@style/Base.Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:padding="12dp"
+        android:text="ASSIST"
+        android:textColor="#FEDE4D"
+        android:textSize="16sp" />
+
+
+    <Button
+        android:id="@+id/btn_contact"
+        style="@style/Base.Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:padding="12dp"
+        android:text="CALL"
+        android:textColor="#23a463"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btn_navigate"
+        style="@style/Base.Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:padding="12dp"
+        android:text="NAVIGATE"
+        android:textColor="#3d8ff3"
+        android:textSize="16sp" />
+</LinearLayout>
